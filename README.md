@@ -46,7 +46,7 @@ begin
 end
 endmodule
 ```
-#REFERENCE:
+REFERENCE:
 
 https://github.com/NivethaKumar30/Simulation-project--Digital-Electronics/edit/main/README.md
 
