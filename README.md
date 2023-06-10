@@ -29,7 +29,7 @@ Step 5: Assign the counter value to the output: Assign the value of the 2-bit co
 
 # TIMING DIAGRAM
 
-
+![Screenshot (571)](https://github.com/NivethaKumar30/Simulation-project--Digital-Electronics/assets/119559844/50d28f8f-b285-4d8e-84fe-34df3bdf525e)
 
 # PROGRAM
 ```
