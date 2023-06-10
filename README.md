@@ -36,7 +36,7 @@ Step 5: Assign the counter value to the output: Assign the value of the 2-bit co
 DEVELOPED BY: NIVETHA .K
 REFRENCE NUMBER: 212222230102
 
-module sp (clk,a);
+module sync (clk,a);
 input clk;
 output  reg [1:0]a;
 always@(posedge clk)
@@ -48,7 +48,6 @@ endmodule
 ```
 REFERENCE:
 
-https://github.com/NivethaKumar30/Simulation-project--Digital-Electronics/blob/main/README.md
 
 
 # RESULT :
