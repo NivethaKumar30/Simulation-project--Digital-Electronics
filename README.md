@@ -21,10 +21,29 @@ Step 5: Assign the counter value to the output: Assign the value of the 2-bit co
 
 # LOGIC DIAGRAM
 
+![image](https://github.com/NivethaKumar30/Simulation-project--Digital-Electronics/assets/119559844/66456216-289d-4d25-bc6f-9558b30c986a)
+
 # NETLIST DIAGRAM
+
+![Screenshot (570)](https://github.com/NivethaKumar30/Simulation-project--Digital-Electronics/assets/119559844/8bcee6aa-71cb-434b-b016-47b9292394f7)
 
 # TIMING DIAGRAM
 
-# PROGRAM
 
+
+# PROGRAM
+```
+DEVELOPED BY: NIVETHA .K
+REFRENCE NUMBER: 212222230102
+
+module sp (clk,a);
+input clk;
+output  reg [1:0]a;
+always@(posedge clk)
+begin
+   a[1]=(a[0])^a[1];
+	a[0]=1^a[0];
+end
+endmodule
+```
 # REFERENCE
