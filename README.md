@@ -48,4 +48,4 @@ endmodule
 ```
 # RESULT :
 
-Thus,the 2 bit synchronous upcounter with T flip flop using Verilog in quartus 2 is executed sucessfully.
+Thus , the 2 bit synchronous upcounter with T flip flop using Verilog in quartus 2 is executed sucessfully.
