@@ -48,7 +48,7 @@ endmodule
 ```
 REFERENCE:
 
-
+https://github.com/NivethaKumar30/Simulation-project--Digital-Electronics/blob/main/README.md
 
 # RESULT :
 
