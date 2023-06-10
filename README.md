@@ -46,6 +46,11 @@ begin
 end
 endmodule
 ```
+#REFERENCE:
+
+https://github.com/NivethaKumar30/Simulation-project--Digital-Electronics/edit/main/README.md
+
+
 # RESULT :
 
 Thus , the 2 bit synchronous upcounter with T flip flop using Verilog in quartus 2 is executed sucessfully.
